@@ -14,5 +14,4 @@ Each folder has its own README with the reflection that went with the assignment
 ## Other projects
 
 - [gridline](https://github.com/joffewilliam/gridline): virtualized React data grid
-- [fluid-simulation](https://github.com/joffewilliam/fluid-simulation): real-time WebGL2 SPH fluid simulation
 - [WPMGAME](https://github.com/joffewilliam/WPMGAME): typing test
